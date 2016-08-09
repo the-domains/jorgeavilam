@@ -1,0 +1,28 @@
+name: jorgeavilam
+favicon: null
+layout_spectrum: 0.8809182629920542
+typography_spectrum: 0.7921638924162835
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8877597325481474
+  lightness: 0.46487518353387713
+  saturation: 0.9272812360431999
+  rhythmicContrast: 0.925198292825371
+purpose: []
